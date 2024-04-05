@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The perfect music bot for your Discord server! 🤘",
   "main": "index.js",
-  "repository": "https://github.com/Androz2091/discord-music-bot",
+  "repository": "https://github.com/Hector532/discord-music-bot",
   "author": "Androz2091 <androz2091@gmail.com>",
   "license": "MIT",
   "scripts": {
